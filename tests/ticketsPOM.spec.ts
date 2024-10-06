@@ -58,7 +58,7 @@ test('Buying Billetto Tickets',async ({page}) => {
   
     // Services
     await delay(5000);
-    await test.step('Verify selection of Services', async () => { 
+    await test.step('Verify selection of three Services', async () => { 
     });
     await Ticket_Services.serviceOne.click();
     await Ticket_Services.serviceTwo.click();
