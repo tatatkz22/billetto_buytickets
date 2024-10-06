@@ -1,0 +1,4 @@
+First page => Tickets
+Next page => Buyer Details
+Next page => Services
+Next page => Payment
